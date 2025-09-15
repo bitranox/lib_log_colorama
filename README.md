@@ -1,1 +1,1 @@
-# lib_log_colorama
+# lib_log_rich
